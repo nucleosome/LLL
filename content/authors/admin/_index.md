@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: undergraduate student of Fuzhou University
+role: undergraduate student
 
 # Organizations/Affiliations
 organizations:
