@@ -63,3 +63,5 @@ user_groups:
 I am an undergraduate student at the Fuzhou Universtiy. My research interests include Communication Theory and Wireless Networks.
 
 What fascinates me most to study wireless communications is that I can apply mathematical tools and fundamental communication concepts of telecommunications to solving new problems and helping people live in a more fully connected world.
+
+email: lailiangling@gmail.com
