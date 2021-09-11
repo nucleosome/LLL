@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: BEng in Telecommunications Engineering
-    institution: Fuzhou University
+    institution: Fuzhou University (2017-2021)
    
 
 # Social/Academic Networking
