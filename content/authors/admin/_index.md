@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: undergraduate student
+role: Undergraduate Student of College of Physics and Information Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -18,18 +18,18 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Intelligent Reflecting Surface and Wireless Security.
+bio: My research interests include Communication Theory and Wireless Networks.
 
 interests:
-- Wireless communication
+- Wireless Networks
 - Intelligent Reflecting Surface
 - Physical Layer Security
 
 education:
   courses:
-  - course: BSc in Telecommunications Engineering
+  - course: BEng in Telecommunications Engineering
     institution: Fuzhou University
-    year: 2017
+   
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -59,6 +59,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an undergraduate student at the Fuzhou Universtiy. My research interests include Communication Theory and Wireless Networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+What fascinates me most to study wireless communications is that I can apply mathematical tools and fundamental communication concepts of telecommunications to solving new problems and helping people live in a more fully connected world.
