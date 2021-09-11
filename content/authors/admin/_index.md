@@ -15,7 +15,7 @@ role: Undergraduate Student of College of Physics and Information Engineering
 # Organizations/Affiliations
 organizations:
 - name: Fuzhou University
-  url: ""
+  url: "lailiangling@gmail.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Communication Theory and Wireless Networks.
@@ -29,9 +29,6 @@ education:
   courses:
   - course: BEng in Telecommunications Engineering
     institution: Fuzhou University (2017-2021)
-   
-email:
-lailiangling@gmail.com
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
