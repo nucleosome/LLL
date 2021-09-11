@@ -16,7 +16,6 @@ role: Undergraduate Student of College of Physics and Information Engineering
 organizations:
 - name: Fuzhou University
   url: ""
-- email: lailiangling@gmail.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Communication Theory and Wireless Networks.
@@ -35,7 +34,12 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 social:
+- icon: envelope
+   icon_pack: fas
+   link: mailto:lailiangling@gmail.com
+
 #- lailiangling@gmail.com
 #- icon: twitter
 #  icon_pack: fab
