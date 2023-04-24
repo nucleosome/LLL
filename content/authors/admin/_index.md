@@ -18,8 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My current research interests include goal-oriented communication and wireless security.
-
+bio: I am exploring the possibility of my life.
 interests:
 - Wireless communication
 - Goal-oriented Communication
