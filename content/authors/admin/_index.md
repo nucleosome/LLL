@@ -10,26 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: undergraduate student
+role: Student
 
 # Organizations/Affiliations
 organizations:
-- name: Fuzhou University
+- name: The Australia National University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Intelligent Reflecting Surface and Wireless Security.
+bio: My current research interests include goal-oriented communication and wireless security.
 
 interests:
 - Wireless communication
-- Intelligent Reflecting Surface
-- Physical Layer Security
+- Goal-oriented Communication
+- Wireless Security
 
 education:
   courses:
   - course: BSc in Telecommunications Engineering
     institution: Fuzhou University
-    year: 2017
+    year: 2022 - current
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
